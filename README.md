@@ -8,7 +8,7 @@ This is an example to show different parts of the Git repository and various com
 
 ## Purpose
 
-As stated above...
+As stated above... More filler text. More filler text.
 
 ## Deployment
 
